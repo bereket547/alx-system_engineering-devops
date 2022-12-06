@@ -1,1 +1,1 @@
-git commands
+what happend to my shell
